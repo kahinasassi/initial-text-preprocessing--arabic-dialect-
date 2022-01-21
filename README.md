@@ -1,2 +1,2 @@
-# KNN
-KNN for the treatment of the MNIST data set with the SCIKIT LEARN library
+# initial preprocessing 
+most comments taken from social media are neither prepared nor cleaned. In script I perform several basic operations to prepare the corpus for the next preprocessing operations
